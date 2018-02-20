@@ -12,7 +12,7 @@ Dentro do repositório da Franzininho no Github, clique na pasta fritzing. Na pa
 
 Ao clicar, o arquivo será aberto conforme a imagem abaixo. Em seguida  clique em download.
 
-![Franzininho dentro do Fritzing](https://github.com/Franzininho/fritzing/blob/master/images_tutorial/image3.png)
+![Franzininho dentro do Fritzing](https://github.com/Franzininho/fritzing/blob/337b2b0a2d7569236146afccf9affa3acd18c0e4/images_tutorial/image3.png)
 
 
 Salve o arquivo em seu computador, em uma pasta de fácil acesso. Agora vamos para o fritzing.
