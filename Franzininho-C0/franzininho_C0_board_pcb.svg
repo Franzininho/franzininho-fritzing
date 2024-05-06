@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="198.98741"
+   height="95.13549"
+   viewBox="0 0 198.98741 95.135496"
+   enable-background="new 0 0 72 46.8"
+   xml:space="preserve"
+   sodipodi:docname="franzininho_C0_board_pcb.svg"
+   inkscape:label="copper0"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+   id="metadata48"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs46"><linearGradient
+     inkscape:collect="always"
+     id="linearGradient1072"><stop
+       style="stop-color:#000000;stop-opacity:1;"
+       offset="0"
+       id="stop1068" /><stop
+       style="stop-color:#000000;stop-opacity:0;"
+       offset="1"
+       id="stop1070" /></linearGradient><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient1072"
+     id="linearGradient1074"
+     x1="-0.0093750004"
+     y1="-1.1929688"
+     x2="40.765625"
+     y2="-1.1929688"
+     gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview44"
+   showgrid="true"
+   inkscape:zoom="3.2597925"
+   inkscape:cx="131.45008"
+   inkscape:cy="-6.9022798"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="copper0"
+   inkscape:document-rotation="0"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:showpageshadow="2"
+   inkscape:deskcolor="#d1d1d1"><inkscape:grid
+     type="xygrid"
+     id="grid952"
+     originx="-5e-09"
+     originy="-17.18802"
+     spacingy="1"
+     spacingx="1"
+     units="px"
+     visible="true" /></sodipodi:namedview>
+<g
+   id="_x3C_desc_x3E_"
+   inkscape:label="_x3C_desc_x3E_"
+   transform="translate(0.2621876,48.164824)">
+</g>
+<g
+   id="silkscreen"
+   inkscape:label="silkscreen"
+   transform="matrix(2.5956084,0,0,1.4913344,42.632913,13.703955)">
+	<rect
+   id="outside_path"
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="0.195233"
+   stroke-linecap="round"
+   width="43.992115"
+   height="46.712124"
+   x="-0.030424526"
+   y="-0.031919692" />
+	
+	
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+	
+	
+</g>
+<g
+   id="copper0"
+   inkscape:label="copper0"
+   inkscape:groupmode="layer"
+   transform="translate(0.2621876,48.164824)">
+	<g
+   id="g33"
+   inkscape:label="g33"
+   transform="translate(42.333983,-11.350416)">
+		
+		<rect
+   id="connector9pad"
+   x="8.7469997"
+   y="41.148998"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   width="4.1040001"
+   height="4.1040001"
+   inkscape:label="connector1pad" />
+	</g>
+	<circle
+   id="connector2pad"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="62.757984"
+   cy="31.850584"
+   r="2.052"
+   inkscape:label="connector2pad" /><circle
+   id="connector8pad"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="120.35799"
+   cy="31.825583"
+   r="2.052" />
+	<circle
+   id="connector7pad"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="110.75799"
+   cy="31.825583"
+   r="2.052" />
+	<circle
+   id="connector6pad"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="101.15798"
+   cy="31.825583"
+   r="2.052" />
+	<circle
+   id="connector5pad"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="91.557983"
+   cy="31.825583"
+   r="2.052" />
+	<circle
+   id="connector4pad"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="81.957985"
+   cy="31.825583"
+   r="2.052" />
+	<circle
+   id="connector3pad"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="72.357986"
+   cy="31.850584"
+   r="2.052" />
+	
+<circle
+   id="circle50"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="129.95798"
+   cy="31.825583"
+   r="2.052"
+   inkscape:label="connector9pad"
+   style="display:inline;stroke-width:1.224;stroke-miterlimit:4;stroke-dasharray:none" /><circle
+   id="circle50-3"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="139.55798"
+   cy="31.70775"
+   r="2.052"
+   inkscape:label="connector10pad"
+   style="display:inline;stroke-width:1.224;stroke-miterlimit:4;stroke-dasharray:none" /><g
+   id="g33-3"
+   inkscape:label="g33"
+   transform="translate(42.972519,-71.980723)"><rect
+     id="connector9pad-0"
+     x="8.7469997"
+     y="41.148998"
+     fill="none"
+     stroke="#f5bd18"
+     stroke-width="1.224"
+     width="4.1040001"
+     height="4.1040001"
+     inkscape:label="connector21pad" /></g><g
+   id="g33-3-8"
+   inkscape:label="g33"
+   transform="translate(138.61368,-54.832579)"><rect
+     id="connector9pad-0-0"
+     x="8.7469997"
+     y="41.148998"
+     fill="none"
+     stroke="#f5bd18"
+     stroke-width="1.224"
+     width="4.1040001"
+     height="4.1040001"
+     inkscape:label="connector21pad" /></g><circle
+   id="connector2pad-6"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="63.396519"
+   cy="-28.779722"
+   r="2.052"
+   inkscape:label="connector22pad" /><circle
+   id="connector8pad-6"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="120.99652"
+   cy="-28.779724"
+   r="2.052"
+   inkscape:label="connector28pad" /><circle
+   id="connector7pad-2"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="111.39652"
+   cy="-28.779724"
+   r="2.052"
+   inkscape:label="connector27pad" /><circle
+   id="connector6pad-61"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="101.79652"
+   cy="-28.779724"
+   r="2.052"
+   inkscape:label="connector26pad" /><circle
+   id="connector5pad-8"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="92.196518"
+   cy="-28.779724"
+   r="2.052"
+   inkscape:label="connector25pad" /><circle
+   id="connector4pad-7"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="82.596519"
+   cy="-28.779724"
+   r="2.052"
+   inkscape:label="connector24pad" /><circle
+   id="connector3pad-9"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="72.996521"
+   cy="-28.779724"
+   r="2.052"
+   inkscape:label="connector23pad" /><circle
+   id="circle50-2"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="130.59653"
+   cy="-28.779724"
+   r="2.052"
+   inkscape:label="connector29pad"
+   style="display:inline;stroke-width:1.224;stroke-miterlimit:4;stroke-dasharray:none" /><circle
+   id="circle50-3-02"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="140.19652"
+   cy="-28.779724"
+   r="2.052"
+   inkscape:label="connector30pad"
+   style="display:inline;stroke-width:1.224;stroke-miterlimit:4;stroke-dasharray:none" /><circle
+   id="circle50-3-9-3"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="149.64912"
+   cy="-4.2180319"
+   r="2.052"
+   inkscape:label="connector31pad"
+   style="display:inline;stroke-width:1.224;stroke-miterlimit:4;stroke-dasharray:none" /><circle
+   id="circle50-3-9-3-6"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="149.42903"
+   cy="3.6105037"
+   r="2.052"
+   inkscape:label="connector31pad"
+   style="display:inline;stroke-width:1.224;stroke-miterlimit:4;stroke-dasharray:none" /><circle
+   id="circle50-3-9-3-6-4"
+   fill="none"
+   stroke="#f5bd18"
+   stroke-width="1.224"
+   cx="149.58841"
+   cy="11.395448"
+   r="2.052"
+   inkscape:label="connector31pad"
+   style="display:inline;stroke-width:1.224;stroke-miterlimit:4;stroke-dasharray:none" /></g>
+</svg>
